@@ -1,21 +1,15 @@
 pipeline {
     agent any
 
-    stages {
-        stage('Build') {
-            steps {
-                echo 'Building..'
-            }
+    stages 
+	{
+        stage('Call Powershell Script') 
+		{
+			node ('MyWindowSlave')
+			{
+				PowerShell(".'.\Calculator.Web\build.ps1")
+			}
         }
-        stage('Test') {
-            steps {
-                echo 'Testing..'
-            }
-        }
-        stage('Deploy') {
-            steps {
-                echo 'Deploying....'
-            }
-        }
+       
     }
 }
