@@ -7,7 +7,7 @@ pipeline {
 		{
 			node ('MyWindowSlave')
 			{
-				PowerShell(".'build.ps1'")
+				PowerShell(".'./Calculator.Web/build.ps1'")
 			}
         }
        
