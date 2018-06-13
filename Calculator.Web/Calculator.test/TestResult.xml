@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<test-run start-time="2018-06-11 04:43:06Z">
+  <command-line><![CDATA["C:\Users\ameer.pathan\Documents\GitHub\Calculator.Web\packages\NUnit.Console-3.6.1\nunit3-console.exe" C:\Users\ameer.pathan\Documents\GitHub\Calculator.Web\Calculator.test\Calculator.test.csproj --noheader --framework=net-4.5 --work=.\Calculator.test]]></command-line>
+</test-run>

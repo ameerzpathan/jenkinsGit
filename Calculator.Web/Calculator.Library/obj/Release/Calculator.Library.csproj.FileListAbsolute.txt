@@ -1,0 +1,8 @@
+C:\Users\ameer.pathan\Documents\GitHub\Calculator.Web\Calculator.Library\bin\Release\Calculator.Library.exe.config
+C:\Users\ameer.pathan\Documents\GitHub\Calculator.Web\Calculator.Library\bin\Release\Calculator.Library.exe
+C:\Users\ameer.pathan\Documents\GitHub\Calculator.Web\Calculator.Library\bin\Release\Calculator.Library.pdb
+C:\Users\ameer.pathan\Documents\GitHub\Calculator.Web\Calculator.Library\bin\Release\nunit.framework.dll
+C:\Users\ameer.pathan\Documents\GitHub\Calculator.Web\Calculator.Library\bin\Release\nunit.framework.pdb
+C:\Users\ameer.pathan\Documents\GitHub\Calculator.Web\Calculator.Library\bin\Release\nunit.framework.xml
+C:\Users\ameer.pathan\Documents\GitHub\Calculator.Web\Calculator.Library\obj\Release\Calculator.Library.exe
+C:\Users\ameer.pathan\Documents\GitHub\Calculator.Web\Calculator.Library\obj\Release\Calculator.Library.pdb
