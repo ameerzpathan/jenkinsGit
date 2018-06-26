@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<test-run start-time="2018-06-26 06:29:01Z">
+<test-run start-time="2018-06-26 06:48:36Z">
   <command-line><![CDATA["C:\code\jenkinsGit\jenkinsGit\Calculator.Web\packages\NUnit.Console-3.6.1\nunit3-console.exe" C:\code\jenkinsGit\jenkinsGit\Calculator.Web\Calculator.test\Calculator.test.csproj --noheader --framework=net-4.5 --work=.\Calculator.test]]></command-line>
 </test-run>
