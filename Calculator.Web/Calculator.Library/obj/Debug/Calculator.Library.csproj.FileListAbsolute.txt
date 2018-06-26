@@ -21,3 +21,12 @@ C:\code\jenkins\Git\Calculator.Web\Calculator.Library\bin\Debug\nunit.framework.
 C:\code\jenkins\Git\Calculator.Web\Calculator.Library\obj\Debug\Calculator.Library.csprojResolveAssemblyReference.cache
 C:\code\jenkins\Git\Calculator.Web\Calculator.Library\obj\Debug\Calculator.Library.exe
 C:\code\jenkins\Git\Calculator.Web\Calculator.Library\obj\Debug\Calculator.Library.pdb
+C:\code\jenkinsGit\jenkinsGit\Calculator.Web\Calculator.Library\bin\Debug\Calculator.Library.exe.config
+C:\code\jenkinsGit\jenkinsGit\Calculator.Web\Calculator.Library\bin\Debug\Calculator.Library.exe
+C:\code\jenkinsGit\jenkinsGit\Calculator.Web\Calculator.Library\bin\Debug\Calculator.Library.pdb
+C:\code\jenkinsGit\jenkinsGit\Calculator.Web\Calculator.Library\bin\Debug\nunit.framework.dll
+C:\code\jenkinsGit\jenkinsGit\Calculator.Web\Calculator.Library\bin\Debug\nunit.framework.pdb
+C:\code\jenkinsGit\jenkinsGit\Calculator.Web\Calculator.Library\bin\Debug\nunit.framework.xml
+C:\code\jenkinsGit\jenkinsGit\Calculator.Web\Calculator.Library\obj\Debug\Calculator.Library.csprojResolveAssemblyReference.cache
+C:\code\jenkinsGit\jenkinsGit\Calculator.Web\Calculator.Library\obj\Debug\Calculator.Library.exe
+C:\code\jenkinsGit\jenkinsGit\Calculator.Web\Calculator.Library\obj\Debug\Calculator.Library.pdb

@@ -12,3 +12,10 @@ C:\code\jenkins\Git\Calculator.Web\Calculator.test\bin\Debug\nunit.framework.pdb
 C:\code\jenkins\Git\Calculator.Web\Calculator.test\bin\Debug\nunit.framework.xml
 C:\code\jenkins\Git\Calculator.Web\Calculator.test\obj\Debug\Calculator.test.dll
 C:\code\jenkins\Git\Calculator.Web\Calculator.test\obj\Debug\Calculator.test.pdb
+C:\code\jenkinsGit\jenkinsGit\Calculator.Web\Calculator.test\bin\Debug\Calculator.test.dll
+C:\code\jenkinsGit\jenkinsGit\Calculator.Web\Calculator.test\bin\Debug\Calculator.test.pdb
+C:\code\jenkinsGit\jenkinsGit\Calculator.Web\Calculator.test\bin\Debug\nunit.framework.dll
+C:\code\jenkinsGit\jenkinsGit\Calculator.Web\Calculator.test\bin\Debug\nunit.framework.pdb
+C:\code\jenkinsGit\jenkinsGit\Calculator.Web\Calculator.test\bin\Debug\nunit.framework.xml
+C:\code\jenkinsGit\jenkinsGit\Calculator.Web\Calculator.test\obj\Debug\Calculator.test.dll
+C:\code\jenkinsGit\jenkinsGit\Calculator.Web\Calculator.test\obj\Debug\Calculator.test.pdb

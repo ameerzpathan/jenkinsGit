@@ -1,4 +1,4 @@
-﻿$rootFolder="C:\Users\ameer.pathan\Documents\GitHub\nugetDemo"
+﻿$rootFolder="C:\code\jenkinsGit\jenkinsGit\Calculator.Web"
 $tempVariable=$rootFolder
 $files=Get-ChildItem -Path $rootFolder
 
